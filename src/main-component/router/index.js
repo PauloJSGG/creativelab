@@ -7,9 +7,9 @@ const AllRoute = () => {
 
   return (
     <div className="App">
-       <Router>
+      <Router>
           <Switch>
-            <Route exact path='/' component={Homepage} />
+            <Route path='/' component={Homepage} />
             <Route path='/home' component={Homepage} />
           </Switch>
       </Router>
