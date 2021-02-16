@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8606cbab9150f1f2ff982db8e116413a",
+    "revision": "d9c24792564828ea506360c39e89b5b9",
     "url": "/creativelab/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creativelab/static/css/2.acdeae99.chunk.css"
   },
   {
-    "revision": "82e2583e49d5957e8fd7",
+    "revision": "968bec2ec67f0d881270",
     "url": "/creativelab/static/css/main.1efb2c5c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/creativelab/static/js/2.ea816177.chunk.js"
   },
   {
-    "revision": "82e2583e49d5957e8fd7",
-    "url": "/creativelab/static/js/main.c1c45d47.chunk.js"
+    "revision": "968bec2ec67f0d881270",
+    "url": "/creativelab/static/js/main.4e36c762.chunk.js"
   },
   {
     "revision": "27cb043a33a749adce2f",
